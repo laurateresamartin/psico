@@ -17,10 +17,6 @@ export default Vue.extend({
     navbar,
   },
 
-  mounted() {
-    console.log('ehiuh');
-
-  },
   data() {
     return {
     };

@@ -72,7 +72,7 @@
                 </li>
  <img
                     class="burguer"
-                    src="../../assets/gato.png"
+                    src="../../assets/logo.png"
                     alt=""
                     height="90px"
                     style="    padding: 0px 0px 0px 50px;;margin-top: -25px;"
